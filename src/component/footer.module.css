@@ -1,0 +1,18 @@
+.footer {
+  color: black;
+  background-color: goldenrod;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 1.5em;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
+.item {
+  margin: 20px;
+}
+.copy {
+  display: block;
+  font-size: 10px;
+}

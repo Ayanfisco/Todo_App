@@ -1,0 +1,36 @@
+.items {
+  background-color: white;
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.2);
+  margin-top: 40px;
+  padding: 20px;
+}
+.item {
+  width: 500px;
+  color: #353935;
+  font-size: 20px;
+  margin: auto;
+}
+.itemname {
+  font-weight: bold;
+  padding: 20px;
+}
+.deletebutton {
+  float: right;
+  border: none;
+  color: white;
+  background-color: goldenrod;
+  padding: 15px 20px;
+  border-radius: 10px;
+  margin-top: -10px;
+  cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+  cursor: pointer;
+}
+.deletebutton:hover {
+  background-color: #b1871b;
+}
